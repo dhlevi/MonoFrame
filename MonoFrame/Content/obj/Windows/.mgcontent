@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/blank.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/DefaultFont.spritefont</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/Arrow1.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/checkbox_checked.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/checkbox_unchecked.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/Close.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/jumper.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LogMax.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LogMin.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButton.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButtonGray.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButtonInactiv.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButtonPreLight.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButtonPressed.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/LongMenuButton_png.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/MenuButtonGray.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/MenuButtonInactiv.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/MenuButtonPreLight.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/MenuButtonPressed.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/Room.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/ShortMenuButton.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/TabLong.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/TabLongPressed.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/TabShort.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Buttons/TabShortPessed.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/Backlight.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/DistantAttack.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/Hand.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/Magic.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack1.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack2.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack3.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack45.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack451.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack452.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Cursors/MAttack453.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Ability.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Ind.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Load.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Magic.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Save.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Setting.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Icons/Wait.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/BackBaseColor.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/IndCreatures.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/logMax.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/logMin.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/MapBack.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/MenuWindow.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/PanelAlpha.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/PanelBottom.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/PopUpMenu.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/Panels/WindowBorder.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/BackBaseColor.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/IndCreatures.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/logMax.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/logMin.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/MapBack.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/MenuWindow.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/PanelAlpha.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/PanelBottom.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/PopUpMenu.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/ProgressBar/WindowBorder.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/UI/woodBackground.png</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Fonts/ArialRounded.spritefont</File>
+    <File>d:/users/dylan/documents/visual studio 2015/Projects/MonoFrame/MonoFrame/Content/Textures/splash.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>

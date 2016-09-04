@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E25EF636-958B-4815-BBB1-C291ECD969B3}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>MonoFrame</RootNamespace>
+    <AssemblyName>MonoFrameBase</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="MonoGame.Framework, Version=3.5.0.1678, Culture=neutral, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AI\IVehicle.cs" />
+    <Compile Include="Entities\Actors\ActorFactory.cs" />
+    <Compile Include="Entities\Actors\CubeObstacle.cs" />
+    <Compile Include="Entities\Actors\GameWorldActor.cs" />
+    <Compile Include="Entities\Actors\Obstacle.cs" />
+    <Compile Include="AI\Pathway.cs" />
+    <Compile Include="AI\PolylinePathway.cs" />
+    <Compile Include="Entities\Actors\SphericalObstacle.cs" />
+    <Compile Include="AI\Steering\SteeringBehaviours.cs" />
+    <Compile Include="ContentManager\ContentLoader.cs" />
+    <Compile Include="ContentManager\ContentResource.cs" />
+    <Compile Include="ContentManager\ContentResourceManager.cs" />
+    <Compile Include="Dice.cs" />
+    <Compile Include="Entities\Actors\ActorManager.cs" />
+    <Compile Include="Entities\Actors\BaseActor.cs" />
+    <Compile Include="Entities\Actors\NonVehicleActor.cs" />
+    <Compile Include="Entities\Actors\VehicleActor.cs" />
+    <Compile Include="Input\ControllerStateHelper.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="MainGame.cs" />
+    <Compile Include="Messaging\Message.cs" />
+    <Compile Include="Messaging\MessageDispatcher.cs" />
+    <Compile Include="Messaging\MessageFactory.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resolution.cs" />
+    <Compile Include="Screens\Screen.cs" />
+    <Compile Include="Screens\ScreenManager.cs" />
+    <Compile Include="Screens\SplashScreen.cs" />
+    <Compile Include="UI\Controls\CheckBox.cs" />
+    <Compile Include="UI\Controls\Label.cs" />
+    <Compile Include="UI\Controls\ListBox.cs" />
+    <Compile Include="UI\Controls\MenuButton.cs" />
+    <Compile Include="UI\Events\InputEventArgs.cs" />
+    <Compile Include="UI\Events\ListBoxSelectionChangedEventArgs.cs" />
+    <Compile Include="UI\GuiButton.cs" />
+    <Compile Include="UI\GuiCheckbox.cs" />
+    <Compile Include="UI\GuiElement.cs" />
+    <Compile Include="UI\GuiLabel.cs" />
+    <Compile Include="UI\GuiListBox.cs" />
+    <Compile Include="UI\GuiPanel.cs" />
+    <Compile Include="UI\GuiTextArea.cs" />
+    <Compile Include="UI\GuiTextBox.cs" />
+    <Compile Include="UI\ListBoxItem.cs" />
+    <Compile Include="Utilities.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Camera\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
